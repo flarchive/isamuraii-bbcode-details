@@ -2,13 +2,21 @@
 
 > **Read-only archive of released versions of isamuraii/bbcode-details.** Not for installation: use [Packagist](https://packagist.org/packages/isamuraii/bbcode-details) or the [upstream repository](https://github.com/iSamuraii/bbcode-details).
 
-**0** versions archived · Latest: [`0.3`](https://github.com/flarchive/isamuraii-bbcode-details/tree/archive/v0.3) · License: `MIT` · Flarum: `^1.0.2`
+**9** versions archived · Latest: [`0.3`](https://github.com/flarchive/isamuraii-bbcode-details/tree/archive/v0.3) · License: `MIT` · Flarum: `^1.0.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2019-02-07 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/isamuraii-bbcode-details/tree/archive/v0.1.0) |
+| `0.2.0` | 2020-12-08 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/isamuraii-bbcode-details/tree/archive/v0.2.0) |
+| `0.2.1` | 2020-12-15 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/isamuraii-bbcode-details/tree/archive/v0.2.1) |
+| `0.2.2` | 2021-02-14 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/isamuraii-bbcode-details/tree/archive/v0.2.2) |
+| `0.2.2.1` | 2021-02-14 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/isamuraii-bbcode-details/tree/archive/v0.2.2.1) |
+| `0.2.2.2` | 2021-02-15 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/isamuraii-bbcode-details/tree/archive/v0.2.2.2) |
+| `0.2.2.3` | 2021-03-07 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/isamuraii-bbcode-details/tree/archive/v0.2.2.3) |
+| `0.2.2.4` | 2021-03-07 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/isamuraii-bbcode-details/tree/archive/v0.2.2.4) |
+| `0.3` | 2021-06-14 | `^1.0.2` | [Browse](https://github.com/flarchive/isamuraii-bbcode-details/tree/archive/v0.3) |
 
 Catalog entry: [packages/isamuraii-bbcode-details.json](https://github.com/flarchive/archive-index/blob/main/packages/isamuraii-bbcode-details.json)
 
